@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://i.gifer.com/SDTP.gif)
+![](https://i.pinimg.com/originals/28/71/e5/2871e5b6ed5e235de8f6877ebe4d884e.gif)
 
 Here are some ideas to get you started:
 
