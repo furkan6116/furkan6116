@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://i.pinimg.com/originals/28/71/e5/2871e5b6ed5e235de8f6877ebe4d884e.gif)
+![](https://miro.medium.com/max/1600/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
 
 Here are some ideas to get you started:
 
