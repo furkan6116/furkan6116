@@ -4,16 +4,6 @@
 
 Sanırım Biraz Kendimden Bahsetmem Gerek .d
 
- ______          _                 _  __               _ _             _       
-|  ____|        | |               | |/ /              (_) |           | |      
-| |__ _   _ _ __| | ____ _ _ __   | ' / __ _ _ __ ___  _| | ___   __ _| |_   _ 
-|  __| | | | '__| |/ / _` | '_ \  |  < / _` | '_ ` _ \| | |/ _ \ / _` | | | | |
-| |  | |_| | |  |   < (_| | | | | | . \ (_| | | | | | | | | (_) | (_| | | |_| |
-|_|   \__,_|_|  |_|\_\__,_|_| |_| |_|\_\__,_|_| |_| |_|_|_|\___/ \__, |_|\__,_|
-                                                                  __/ |        
-                                                                 |___/         
-
-
 Trabzon Naci Orhan Bilgisayar Bilimleri Ve Kodlama Eğitim Merkezi Mezunuyum. 16 Yaşındayım Ve Küçüklükten Beri Kodlamayla Uğraşıyorum. Python, Html, Css, Javascript, Java, Php, Node.js, Jquery, XML, Typescript, C++, C#, Cordova, Angular, Beyaz Takkeli Heçkırlık, Jquery, Vue.js, Visual Basic, Bootstrap , Unity vb Birçok Teknolojiye Hakimim. (He bu arada 2017 stratch cupmudur nedir ordaki proje değerlendirmeni olan alçak puştlara burdan selam olsun zamanının god of the scratch'inin multiplayer oyununu rakamlar ve tavşanlara tercih ettiler.)
 
 ![](https://media0.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
