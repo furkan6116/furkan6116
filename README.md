@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![](https://miro.medium.com/max/1600/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
+
+### MERHABA PROFİLİMİ ZİYARET EDEN VE KİM OLDUĞUNU BİLMEDİĞİM (KİŞİ || BOT) 👋
 
 Here are some ideas to get you started:
 
