@@ -4,7 +4,7 @@
 
 Sanırım Biraz Kendimden Bahsetmem Gerek .d
 
-Trabzon Naci Orhan Bilgisayar Bilimleri Ve Kodlama Eğitim Merkezi Mezunuyum. 16 Yaşındayım Ve Küçüklükten Beri Kodlamayla Uğraşıyorum. Python, Html, Css, Javascript, Java, Php, Node.js, Jquery, XML, Typescript, C++, C#, Cordova, Angular, Beyaz Takkeli Heçkırlık, Jquery, Vue.js, Visual Basic, Bootstrap , Unity vb Birçok Teknolojiye Hakimim. (He bu arada 2017 stratch cupmudur nedir ordaki proje değerlendirmeni olan alçak puştlara burdan selam olsun zamanının god of the scratch'inin multiplayer oyununu rakamlar ve tavşanlara tercih ettiler.)
+Küçüklüğümden beri kodlamayla uğraşıyorum. Profesyönel websiteleri scriptler ve uygulamalar yapıyorum. Bazılarınıda githubda paylaşıyorum.
 
 ![](https://media0.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
