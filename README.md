@@ -4,7 +4,7 @@
 
 Sanırım Biraz Kendimden Bahsetmem Gerek .d
 
-Küçüklüğümden beri kodlamayla uğraşıyorum. Profesyönel websiteleri scriptler ve uygulamalar yapıyorum. Bazılarınıda githubda paylaşıyorum.
+Küçüklüğümden beri kodlamayla uğraşıyorum. Profesyönel websiteleri scriptler ve uygulamalar yapıyorum. Bazılarınıda githubda paylaşıyorum.(10 tane yaptıysak birini atıyoz buraya .d)
 
 ![](https://media0.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
